@@ -1,0 +1,15 @@
+#section3_button {
+  position: absolute;
+  margin-top: 20px;
+  padding: 10px 30px;
+  border: 2px solid #ffff;
+  text-decoration: none;
+  color: white;
+  font-family: Montserrat, sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 2px;
+}
+#section3_button:hover {
+  opacity: 0.8;
+}

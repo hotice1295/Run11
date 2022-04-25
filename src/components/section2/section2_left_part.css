@@ -1,0 +1,11 @@
+#section2_left_part {
+  height: 708px;
+  width: 650px;
+}
+@media (max-width: 767px) {
+  #section2_left_part {
+    position: relative;
+    top: 350px;
+    margin: 0 30px;
+  }
+}

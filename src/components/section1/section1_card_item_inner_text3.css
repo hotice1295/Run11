@@ -1,0 +1,30 @@
+.button_more {
+  position: relative;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  font-weight: 600;
+  top: 5px;
+  text-decoration: none;
+  padding-bottom: 5px;
+  color: #ffff;
+  border-bottom: 1px solid white;
+  font-family: Montserrat, sans-serif;
+}
+.button_more:hover {
+  opacity: 0.8;
+}
+.button_more1 {
+  position: relative;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  font-weight: 600;
+  top: 40px;
+  text-decoration: none;
+  padding-bottom: 5px;
+  color: #ffff;
+  border-bottom: 1px solid white;
+  font-family: Montserrat, sans-serif;
+}
+.button_more1:hover {
+  opacity: 0.8;
+}

@@ -1,0 +1,40 @@
+#card {
+  width: auto;
+  height: 300px;
+  background-color: white;
+  position: relative;
+  bottom: 300px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+#card1 {
+  background-color: #604043;
+}
+#card2 {
+  background-color: #3da9c9;
+}
+#card3 {
+  background-color: #ae6f4e;
+}
+@media (max-width: 767px) {
+  #card1 {
+    margin-bottom: 20px;
+  }
+  #card2 {
+    margin-bottom: 20px;
+  }
+  #card3 {
+    margin-bottom: 20px;
+  }
+  #card {
+    width: auto;
+    height: auto;
+    background-color: white;
+    position: relative;
+    bottom: 100px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+}

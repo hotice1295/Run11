@@ -1,0 +1,15 @@
+.head_icons {
+  position: relative;
+  left: 400px;
+  padding-left: 8px;
+  margin-top: 26.5px;
+}
+
+@media (max-width: 767px) {
+  .head_icons {
+    position: relative;
+    left: 25%;
+    padding-left: 8px;
+    margin-top: 26.5px;
+  }
+}

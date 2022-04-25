@@ -1,0 +1,7 @@
+#section3_right_part_wrapper {
+  height: 780px;
+  width: 530px;
+  padding: 30px 30px 30px 60px;
+  display: flex;
+  align-items: center;
+}

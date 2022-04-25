@@ -1,0 +1,11 @@
+#section3_left_img {
+  height: 840px;
+  width: 640px;
+}
+@media (max-width: 767px) {
+  #section3_left_img {
+    height: 470px;
+    width: 430px;
+    object-fit: cover;
+  }
+}

@@ -1,0 +1,8 @@
+#background_section5 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(https://i.imgur.com/Iaztp8E.jpg);
+  height: 900px;
+  width: 100%;
+}

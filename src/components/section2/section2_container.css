@@ -1,0 +1,11 @@
+.section2_container {
+  height: 166px;
+  width: 622px;
+  padding: 30px;
+}
+@media (max-width: 767px) {
+  .section2_container {
+    width: 350px;
+    padding: 0px;
+  }
+}

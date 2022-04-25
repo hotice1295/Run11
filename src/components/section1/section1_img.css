@@ -1,0 +1,11 @@
+#section1_img {
+  width: 100%;
+}
+@media (max-width: 767px) {
+  #section1_img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    height: 434px;
+  }
+}

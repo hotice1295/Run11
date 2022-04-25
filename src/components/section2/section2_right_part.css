@@ -1,0 +1,11 @@
+#section2_right_img {
+  height: 708px;
+}
+@media (max-width: 767px) {
+  #section2_right_img {
+    position: relative;
+    top: 300px;
+    height: 530px;
+    width: 100%;
+  }
+}

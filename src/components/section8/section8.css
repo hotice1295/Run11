@@ -1,0 +1,13 @@
+#wrapper_section8 {
+  margin-top: 146px;
+  width: 100%;
+  height: 686px;
+  background: url(https://i.imgur.com/XTSEAbS.png) no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
